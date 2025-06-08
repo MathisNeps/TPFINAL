@@ -266,7 +266,7 @@ Le rapport sera généré dans `target/site/jacoco/index.html`.
 
 ## Auteur
 
-Ce projet a été développé par **SOUNTSA DJIELE PIO VIANNEY** dans le cadre d'un apprentissage avancé de Spring Boot.
+Ce projet a été développé par **Nepetsoun Tchokote Reine Mathis** dans le cadre d'un apprentissage avancé de Spring Boot.
 
 ---
 
